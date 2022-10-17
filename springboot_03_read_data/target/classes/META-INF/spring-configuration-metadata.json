@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "enterprise",
+      "type": "com.skooch.domain.Enterprise",
+      "sourceType": "com.skooch.domain.Enterprise"
+    }
+  ],
+  "properties": [
+    {
+      "name": "enterprise.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.skooch.domain.Enterprise"
+    },
+    {
+      "name": "enterprise.name",
+      "type": "java.lang.String",
+      "sourceType": "com.skooch.domain.Enterprise"
+    },
+    {
+      "name": "enterprise.subject",
+      "type": "java.lang.String[]",
+      "sourceType": "com.skooch.domain.Enterprise"
+    },
+    {
+      "name": "enterprise.tel",
+      "type": "java.lang.String",
+      "sourceType": "com.skooch.domain.Enterprise"
+    }
+  ],
+  "hints": []
+}
